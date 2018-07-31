@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database:
+        name: lookups
+      uri: mongodb://usr-lookups:qwe123@dbtest.n11pro.n11.local:27017/lookups?authSource=lookups&authMechanism=SCRAM-SHA-1
